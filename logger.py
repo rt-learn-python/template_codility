@@ -1,6 +1,6 @@
 import logging
 
-instance = logging.getLogger('ticket_manager')
+instance = logging.getLogger('template-codility')
 instance.setLevel(logging.DEBUG)
 
 ch = logging.StreamHandler()
